@@ -1,0 +1,115 @@
+
+    {
+        "items": [
+          {
+            "id": 1,
+            "nombre": "Santa Ana",
+            "altura": 2381,
+            "departamento": "Santa Ana",
+            "imagen": "https://ejemplo.com/volcan_santa_ana.jpg",
+            "caracteristicas": [
+              "Cima con fumarola activa",
+              "Cone Caldera"
+            ]
+          },
+          {
+            "id": 2,
+            "nombre": "Izalco",
+            "altura": 1950,
+            "departamento": "Sonsonate",
+            "imagen": "https://ejemplo.com/volcan_izalco.jpg",
+            "caracteristicas": [
+              "Conocido como el 'Farol de América'",
+              "Elevado índice de actividad histórica"
+            ]
+          },
+          {
+            "id": 3,
+            "nombre": "San Miguel",
+            "altura": 2130,
+            "departamento": "San Miguel",
+            "imagen": "https://ejemplo.com/volcan_san_miguel.jpg",
+            "caracteristicas": [
+              "Uno de los más activos de El Salvador",
+              "Cima con cráter y fumarola"
+            ]
+          },
+          {
+            "id": 4,
+            "nombre": "Conchagua",
+            "altura": 1225,
+            "departamento": "La Unión",
+            "imagen": "https://ejemplo.com/volcan_conchagua.jpg",
+            "caracteristicas": [
+              "Forma parte de la cadena volcánica",
+              "Paisajes panorámicos desde la cima"
+            ]
+          },
+          {
+            "id": 5,
+            "nombre": "Chaparrastique",
+            "altura": 2129,
+            "departamento": "San Miguel",
+            "imagen": "https://ejemplo.com/volcan_chaparrastique.jpg",
+            "caracteristicas": [
+              "Famoso por su erupción de 2013",
+              "Vistas impresionantes desde la cima"
+            ]
+          },
+          {
+            "id": 6,
+            "nombre": "Guazapa",
+            "altura": 1438,
+            "departamento": "San Salvador",
+            "imagen": "https://ejemplo.com/volcan_guazapa.jpg",
+            "caracteristicas": [
+              "Antiguamente considerado extinto",
+              "Senderos de trekking alrededor"
+            ]
+          },
+          {
+            "id": 7,
+            "nombre": "Cerro Quemado",
+            "altura": 1290,
+            "departamento": "Santa Ana",
+            "imagen": "https://ejemplo.com/cerro_quemado.jpg",
+            "caracteristicas": [
+              "Cima con formaciones rocosas",
+              "Biodiversidad en sus laderas"
+            ]
+          },
+          {
+            "id": 8,
+            "nombre": "Chinameca",
+            "altura": 1300,
+            "departamento": "San Miguel",
+            "imagen": "https://ejemplo.com/volcan_chinameca.jpg",
+            "caracteristicas": [
+              "Forma parte de la cordillera volcánica",
+              "Zonas geotérmicas en sus alrededores"
+            ]
+          },
+          {
+            "id": 9,
+            "nombre": "Taburete",
+            "altura": 1150,
+            "departamento": "Sonsonate",
+            "imagen": "https://ejemplo.com/volcan_taburete.jpg",
+            "caracteristicas": [
+              "Menos conocido pero escénico",
+              "Vegetación variada en sus laderas"
+            ]
+          },
+          {
+            "id": 10,
+            "nombre": "San Vicente",
+            "altura": 2182,
+            "departamento": "San Vicente",
+            "imagen": "https://ejemplo.com/volcan_san_vicente.jpg",
+            "caracteristicas": [
+              "Parte de la cadena volcánica",
+              "Paisajes agrícolas en sus alrededores"
+            ]
+          }
+        ]
+      }
